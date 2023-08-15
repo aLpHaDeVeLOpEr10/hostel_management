@@ -26,15 +26,17 @@ if (isset($_SESSION['membermsg'])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
     <link rel="stylesheet" href="css/style.css">
+
     <title>Add Hostel Member</title>
 </head>
 <body>
     <?php     include "header.php";
 ?>
+
     
     <div class="container" style="margin-top:140px!important;">
+    
         <h1>Add Hostel Member</h1>
         <form class="signup-form" action="add_member.php" method="POST">
             <label for="name">Name:</label>
