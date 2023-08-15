@@ -32,7 +32,7 @@ if (isset($_SESSION['addmsg'])){
 <body>
     <?php     include "header.php";
 ?>
-    
+      //changed
     <div class="container" >
         <h1>Add Notice</h1>
         <form class="signup-form" action="add_notice.php" method="POST">
