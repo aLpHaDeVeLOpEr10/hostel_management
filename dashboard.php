@@ -2,6 +2,10 @@
 include "logout.php";
 include "header.php";
 ?>
+
+
+
+//edited by mubashir
 <style>
   .card_row {
     display: flex;
@@ -108,7 +112,7 @@ include "header.php";
 </div>
 
 
-
+<!-- //edited by mubashir -->
 
 </body>
 
