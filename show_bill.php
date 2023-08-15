@@ -62,7 +62,9 @@ foreach ($members as $member):
         <td><spam style="color: green;">Approved</spam></td>
     <?php endif; ?>                                      
 </tr>
-<?php endforeach; ?>
+<?php endforeach;
+
+#junaid changed?>
                                     </tbody>
                                 </table>
                             </div>
