@@ -59,7 +59,7 @@ $members= $showMember->getBed();
                                         </tr>
 <?php endforeach; ?>
                                      
-                                    <!-- mubiashir change this-->
+                                    <!-- mubiashir change this now-->
                                     </tbody>
                                 </table>
                             </div>
