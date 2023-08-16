@@ -58,7 +58,7 @@ $members= $showMember->getBed();
                                       
                                         </tr>
 <?php endforeach; ?>
-                                     
+                                     <!-- i made this -->
                                     
                                     </tbody>
                                 </table>
